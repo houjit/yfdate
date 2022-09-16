@@ -2,13 +2,9 @@
 
 Yfdate is a calendar library for Solar and Chinese Yfdate.
 
-This version is based on composer, you can use [single file version](https://github.com/6tail/Yfdate-php-standalone) also。
-
-[简体中文](https://github.com/6tail/Yfdate-php/blob/master/README.md)
-
 ## Example
 
-    composer require 6tail/Yfdate-php
+    composer require houjit/yfdate
      
     <?php
     use yfdate\Yfdate;
