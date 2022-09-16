@@ -1,8 +1,8 @@
 <?php
 
-namespace yfdate\util;
+namespace houjit\yfdate\util;
 
-use yfdate\Solar;
+use houjit\yfdate\Solar;
 
 bcscale(12);
 

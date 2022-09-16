@@ -1,7 +1,7 @@
 <?php
 
-use yfdate\Foto;
-use yfdate\Yfdate;
+use houjit\yfdate\Foto;
+use houjit\yfdate\Yfdate;
 use PHPUnit\Framework\TestCase;
 
 class FotoTest extends TestCase

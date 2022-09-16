@@ -1,9 +1,9 @@
 <?php
 require 'vendor/autoload.php';
 
-use yfdate\util\HolidayUtil;
-use yfdate\Yfdate;
-use yfdate\Solar;
+use houjit\yfdate\util\HolidayUtil;
+use houjit\yfdate\Yfdate;
+use houjit\yfdate\Solar;
 
 $Yfdate = Yfdate::fromYmd(1986, 4, 21);
 echo $Yfdate->toFullString() . "\n";

@@ -1,8 +1,8 @@
 <?php
 
-namespace yfdate\util;
+namespace houjit\yfdate\util;
 
-use yfdate\Holiday;
+use houjit\yfdate\Holiday;
 
 /**
  * 法定节假日工具（自2001年12月29日起）

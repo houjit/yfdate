@@ -1,7 +1,7 @@
 <?php
 
-use yfdate\Tao;
-use yfdate\Yfdate;
+use houjit\yfdate\Tao;
+use houjit\yfdate\Yfdate;
 use PHPUnit\Framework\TestCase;
 
 class TaoTest extends TestCase

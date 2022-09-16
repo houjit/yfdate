@@ -1,8 +1,8 @@
 <?php
 
-namespace yfdate\util;
+namespace houjit\yfdate\util;
 
-use yfdate\FotoFestival;
+use houjit\yfdate\FotoFestival;
 
 /**
  * 佛历工具

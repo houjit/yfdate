@@ -8,9 +8,9 @@
 // +----------------------------------------------------------------------
 // | Author: Amos <amos@houjit.com>
 // +----------------------------------------------------------------------
-namespace yfdate;
+namespace houjit\yfdate;
 
-use yfdate\util\YfdateUtil;
+use houjit\yfdate\util\YfdateUtil;
 
 /**
  * 农历月

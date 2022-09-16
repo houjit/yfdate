@@ -1,7 +1,7 @@
 <?php
 
-use yfdate\Solar;
-use yfdate\util\SolarUtil;
+use houjit\yfdate\Solar;
+use houjit\yfdate\util\SolarUtil;
 use PHPUnit\Framework\TestCase;
 
 class SolarTest extends TestCase

@@ -1,7 +1,7 @@
 <?php
 
-use yfdate\SolarWeek;
-use yfdate\util\SolarUtil;
+use houjit\yfdate\SolarWeek;
+use houjit\yfdate\util\SolarUtil;
 use PHPUnit\Framework\TestCase;
 
 /**

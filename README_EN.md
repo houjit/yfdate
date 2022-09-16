@@ -7,7 +7,7 @@ Yfdate is a calendar library for Solar and Chinese Yfdate.
     composer require houjit/yfdate
      
     <?php
-    use yfdate\Yfdate;
+    use houjit\yfdate\Yfdate;
      
     $Yfdate = Yfdate::fromYmd(1986,4,21);
     echo $Yfdate->toFullString()."\n";

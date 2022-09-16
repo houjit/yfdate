@@ -8,10 +8,10 @@
 // +----------------------------------------------------------------------
 // | Author: Amos <amos@houjit.com>
 // +----------------------------------------------------------------------
-namespace yfdate;
+namespace houjit\yfdate;
 
-use yfdate\util\YfdateUtil;
-use yfdate\util\SolarUtil;
+use houjit\yfdate\util\YfdateUtil;
+use houjit\yfdate\util\SolarUtil;
 use DateTime;
 
 bcscale(12);

@@ -1,6 +1,6 @@
 <?php
 
-use yfdate\Solar;
+use houjit\yfdate\Solar;
 use PHPUnit\Framework\TestCase;
 
 /**

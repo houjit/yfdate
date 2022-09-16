@@ -1,6 +1,6 @@
 <?php
 
-use yfdate\util\HolidayUtil;
+use houjit\yfdate\util\HolidayUtil;
 use PHPUnit\Framework\TestCase;
 
 /**

@@ -1,6 +1,6 @@
 <?php
 
-use yfdate\SolarMonth;
+use houjit\yfdate\SolarMonth;
 use PHPUnit\Framework\TestCase;
 
 /**

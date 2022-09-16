@@ -1,8 +1,8 @@
 <?php
 
-namespace yfdate\util;
+namespace houjit\yfdate\util;
 
-use yfdate\TaoFestival;
+use houjit\yfdate\TaoFestival;
 
 /**
  * 道历工具

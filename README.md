@@ -7,7 +7,7 @@ Yfdate是一款无第三方依赖的日历工具，支持公历(阳历)、农历
     composer require houjit/yfdate
      
     <?php
-    use yfdate\Yfdate;
+    use houjit\yfdate\Yfdate;
      
     $Yfdate = Yfdate::fromYmd(1986,4,21);
     echo $Yfdate->toFullString()."\n";

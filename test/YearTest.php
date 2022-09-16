@@ -1,7 +1,7 @@
 <?php
 
-use yfdate\YfdateYear;
-use yfdate\SolarYear;
+use houjit\yfdate\YfdateYear;
+use houjit\yfdate\SolarYear;
 use PHPUnit\Framework\TestCase;
 
 /**

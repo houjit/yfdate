@@ -8,8 +8,8 @@
 // +----------------------------------------------------------------------
 // | Author: Amos <amos@houjit.com>
 // +----------------------------------------------------------------------
-namespace yfdate;
-use yfdate\util\SolarUtil;
+namespace houjit\yfdate;
+use houjit\yfdate\util\SolarUtil;
 use DateTime;
 use DateTimeZone;
 use RuntimeException;

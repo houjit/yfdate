@@ -1,8 +1,8 @@
 <?php
 
-namespace yfdate\util;
+namespace houjit\yfdate\util;
 
-use yfdate\ExactDate;
+use houjit\yfdate\ExactDate;
 
 /**
  * 阳历工具

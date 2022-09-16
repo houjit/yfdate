@@ -8,10 +8,10 @@
 // +----------------------------------------------------------------------
 // | Author: Amos <amos@houjit.com>
 // +----------------------------------------------------------------------
-namespace yfdate;
+namespace houjit\yfdate;
 
-use yfdate\util\FotoUtil;
-use yfdate\util\YfdateUtil;
+use houjit\yfdate\util\FotoUtil;
+use houjit\yfdate\util\YfdateUtil;
 
 /**
  * 佛历

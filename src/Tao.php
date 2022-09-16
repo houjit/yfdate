@@ -8,10 +8,10 @@
 // +----------------------------------------------------------------------
 // | Author: Amos <amos@houjit.com>
 // +----------------------------------------------------------------------
-namespace yfdate;
+namespace houjit\yfdate;
 
-use yfdate\util\TaoUtil;
-use yfdate\util\YfdateUtil;
+use houjit\yfdate\util\TaoUtil;
+use houjit\yfdate\util\YfdateUtil;
 
 /**
  * 道历

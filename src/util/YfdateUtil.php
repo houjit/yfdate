@@ -1,6 +1,6 @@
 <?php
 
-namespace yfdate\util;
+namespace houjit\yfdate\util;
 
 /**
  * 农历工具
